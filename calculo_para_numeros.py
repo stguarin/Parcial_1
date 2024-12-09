@@ -7,7 +7,7 @@ x= 0
 #se inicia el bucle 
 while n!=1:
     #es establece el primer filtro para saber si un numero es negativo o positivo
-    if n>= 0:
+    if n> 0:
         #se establece un segundo bucle para determinar si es par comparando el resultado de una division entrea entre 2 con una divicion convencional entre 2 
         if n//2 == n/2:
             #el numero se divide en 2 y se impreime su resultado
